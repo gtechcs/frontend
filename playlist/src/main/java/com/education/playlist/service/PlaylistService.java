@@ -1,4 +1,4 @@
-package com.educative.mediaapp.service;
+package com.education.playlist.service;
 
 import java.math.BigInteger;
 import java.util.List;
