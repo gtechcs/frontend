@@ -3,7 +3,10 @@ package com.education.playlist;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@ComponentScan
+// @learn how to setup ComponentScan
+// @ComponentScan("com.education")
+// @Learn how to exclude a class from scanned packages
+//@SpringBootApplication(exclude = { DataSourceConfiguration.class })
 @SpringBootApplication
 public class PlaylistApplication {
 
