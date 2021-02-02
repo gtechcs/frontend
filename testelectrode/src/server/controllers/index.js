@@ -1,4 +1,5 @@
 module.exports = {
-    welcomeModule: require("./welcome")
+    welcomeModule: require("./welcome"),
+    blogs: require("./blogs")
 
 }
