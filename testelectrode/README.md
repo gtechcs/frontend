@@ -39,3 +39,8 @@ npm run dev
 ## Resources
 
 - Check Electrode docs at <https://www.electrode.io/electrode/>
+
+
+## Experiments
+- npm run build
+- npm run  start-express
